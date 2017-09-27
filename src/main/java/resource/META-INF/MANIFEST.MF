@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Class-Path: spring-core-4.0.9.RELEASE.jar spring-beans-4.0.9.RELEASE.j
+ ar jstl-1.2.jar spring-webmvc-4.0.9.RELEASE.jar log4j-1.2.16.jar asm-
+ 3.1.jar spring-aop-4.0.9.RELEASE.jar commons-lang3-3.3.2.jar spring-c
+ ontext-4.0.9.RELEASE.jar commons-logging-1.1.3.jar fastjson-1.2.6.jar
+  spring-expression-4.0.9.RELEASE.jar cglib-2.2.jar jsr311-api-1.1.1.j
+ ar aopalliance-1.0.jar spring-web-4.0.9.RELEASE.jar
+Main-Class: remoteForSpringMvc.util.Main
+
